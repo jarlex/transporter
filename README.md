@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jarlex/transporter">
-    <img src="images/transporter.png" alt="Logo" width="120" height="120">
+    <img src="images/transporter.png" alt="Logo" width="200" height="200">
   </a>
   <h3 align="center">Transporter</h3>
 </p>
