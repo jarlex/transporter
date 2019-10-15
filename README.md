@@ -46,9 +46,6 @@ TBD
 ```bash
 #Installation by source
 go get github.com/jarlex/transporter
-
-#Download image
-docker pull #TBD
 ```
 
 ### Prerequisites
