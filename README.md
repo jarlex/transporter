@@ -1,15 +1,3 @@
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/jarlex/transporter">
-    <img src="images/transporter.png" alt="Logo" width="200" height="200">
-  </a>
-  <h3 align="center">Transporter</h3>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
